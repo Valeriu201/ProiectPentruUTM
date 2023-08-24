@@ -1,0 +1,1 @@
+Creati un slider in JavaScript
